@@ -29,7 +29,7 @@ Please cite the following paper when the data is used:
 ```
 
 # Contact 
-If you have any questions about this dataset, please contact Talita Anthonio via e-mail: talita.anthonio@yahoo.com . 
+If you have any questions about this dataset, please contact Talita Anthonio via e-mail: talita.anthonio@yahoo.com. 
 
 # Related datasets: 
 - WikiHowToImprove: https://github.com/irshadbhat/wikiHowToImprove (paper: https://aclanthology.org/2020.lrec-1.702/)
