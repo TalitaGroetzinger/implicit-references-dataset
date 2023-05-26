@@ -1,7 +1,7 @@
 # Repo for Implicit References Dataset from the paper Resolving Implicit References in Instructional Text
 
 This repository contains the dataset from the paper 'Resolving Implicit References in Instructional Text'. The dataset contains 
-1,614 sentences with implicit references occuring in WikiHow Instructions, created from the WikiHowToImprove dataset. 
+6,014 sentences with implicit references occuring in WikiHow Instructions, created from the WikiHowToImprove dataset. 
 
 The current version of the data contains the following columns: 
 - ArticleName: the name of the WikiHow Article. 
